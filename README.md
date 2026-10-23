@@ -16,12 +16,12 @@ The Smart Vision Assistant for Visually Impaired is a project developed to explo
 
  🛠️ Technologies Used
 
-- **Programming Language:** Python
-- **Computer Vision:** Image Processing
-- **Deep Learning:** PyTorch / CRNN (Convolutional Recurrent Neural Network), where applicable
-- **Development Environment:** Jupyter Notebook
-- **Application:** Python-based application (`app.py`)
-- **Audio Processing:** Speech or audio output, where implemented
+- Programming Language: Python
+- Computer Vision: Image Processing
+- Deep Learning: PyTorch / CRNN (Convolutional Recurrent Neural Network), where applicable
+- Development Environment: Jupyter Notebook
+- Application: Python-based application 
+- Audio Processing: Speech or audio output, where implemented
 
 📂 Project Structure
 
@@ -43,8 +43,6 @@ The image dataset used for training and experimentation is not included in this 
 The relevant text-based labels or annotation files are included where required by the project.
 
 To run the notebooks or application, download the required dataset separately and update the dataset paths in the code.
-
-**Dataset link:** To be added, if available for sharing.
 
  ⚙️ Installation and Setup
 
